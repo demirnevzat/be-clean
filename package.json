@@ -1,0 +1,13 @@
+{
+  "name": "be-clean",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Be Clean: a web app that helps people quit addictions.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}
